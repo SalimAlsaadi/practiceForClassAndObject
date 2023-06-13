@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\bin\Debug\net6.0\practiceForcClassAndObject.exe
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\bin\Debug\net6.0\practiceForcClassAndObject.deps.json
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\bin\Debug\net6.0\practiceForcClassAndObject.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\bin\Debug\net6.0\practiceForcClassAndObject.dll
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\bin\Debug\net6.0\practiceForcClassAndObject.pdb
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.dll
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\refint\practiceForcClassAndObject.dll
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.pdb
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\practiceForcClassAndObject.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\practiceForcClassAndObject\practiceForcClassAndObject\obj\Debug\net6.0\ref\practiceForcClassAndObject.dll
